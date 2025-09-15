@@ -7,3 +7,4 @@ Braille Translator- A Java project developed for CS212: Data Structures** at Rut
 
 CyberCrimeInvestigation- A Java project developed for CS212: Data Structures** at Rutgers University. This program tracks hackers and their incidents using a hash table with chaining and supports dynamic resizing.
 
+RUMaps- A Java project developed for CS212: Data Structures** at Rutgers University. This program provides tools to analyze and navigate the campus map using graph algorithms.
