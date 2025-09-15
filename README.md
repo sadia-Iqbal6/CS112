@@ -5,3 +5,5 @@ Kindergarten Classroom- A Java project developed for CS112: Data Structures at R
 
 Braille Translator- A Java project developed for CS212: Data Structures** at Rutgers University. This program translates Braille encodings to English letters and vice versa using a binary search tree (BST).
 
+CyberCrimeInvestigation- A Java project developed for CS212: Data Structures** at Rutgers University. This program tracks hackers and their incidents using a hash table with chaining and supports dynamic resizing.
+
